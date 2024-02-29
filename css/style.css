@@ -36,16 +36,6 @@
   z-index: 5;
 }
 
-.btn::after {
-  content: "";
-  position: absolute;
-  top: -1em;
-  left: -1em;
-  background-color: rgba(0, 0, 0, 0);
-  height: 5.3em;
-  width: 13.5em;
-}
-
 .btn:hover {
   background-color: aquamarine;
 }/*# sourceMappingURL=style.css.map */

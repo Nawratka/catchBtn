@@ -28,4 +28,5 @@ btn.addEventListener('mouseover', newPosition);
 
 btn.addEventListener('click', () => {
 	console.log('✨✨✨ SUCCESS! ✨✨✨');
+	setTimeout(newPosition(), 700)
 });
